@@ -1,0 +1,7 @@
+fastapi==0.63.0
+pur==5.3.0
+uvicorn==0.13.2
+starlette==0.13.6
+jinja2==2.11.2
+pydantic==1.7.3
+httpx==0.16.1
